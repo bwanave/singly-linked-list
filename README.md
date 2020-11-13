@@ -1,5 +1,5 @@
 #  Singly Linked List
-### Java based Singly linked list data structure implementation
+### Java based implementation of Singly linked list data structure
 ##
 ##### Operations
 
